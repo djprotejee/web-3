@@ -1,0 +1,110 @@
+{
+  "testName": "Тест по WEB дизайну",
+  "questions": [
+    {
+      "question": "Яка порода собаки вважається однією з найдавніших за походженням?",
+      "answers": [
+        {
+          "answer": "Акіта-іну",
+          "isCorrect": true
+        },
+        {
+          "answer": "Німецька вівчарка",
+          "isCorrect": false
+        },
+        {
+          "answer": "Джек-рассел-тер'єр",
+          "isCorrect": false
+        },
+        {
+          "answer": "Самоїд",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Що в собак є таким же унікальним, як відбитки пальців людини?",
+      "answers": [
+        {
+          "answer": "Лапи",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ніс",
+          "isCorrect": true
+        },
+        {
+          "answer": "Хвіст",
+          "isCorrect": false
+        },
+        {
+          "answer": "Вуха",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Яка порода собак вважається найбільшою?",
+      "answers": [
+        {
+          "answer": "Сенбернар",
+          "isCorrect": false
+        },
+        {
+          "answer": "Чихуахуа",
+          "isCorrect": false
+        },
+        {
+          "answer": "Пекінес",
+          "isCorrect": false
+        },
+        {
+          "answer": "Мастифф",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Скільки зубів зазвичай у дорослої собаки?",
+      "answers": [
+        {
+          "answer": "0",
+          "isCorrect": false
+        },
+        {
+          "answer": "42",
+          "isCorrect": true
+        },
+        {
+          "answer": "-16",
+          "isCorrect": false
+        },
+        {
+          "answer": "Безкінечність",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Хто тримає цей район?",
+      "answers": [
+        {
+          "answer": "Пес Гільза",
+          "isCorrect": false
+        },
+        {
+          "answer": "Пес Батон",
+          "isCorrect": false
+        },
+        {
+          "answer": "Пес Протон",
+          "isCorrect": false
+        },
+        {
+          "answer": "Пес Патрон",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}
