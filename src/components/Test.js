@@ -63,6 +63,8 @@ const Test = ({ questions }) => {
           score={calculateScore()}
           totalQuestions={questions.length}
           onRestart={restartTest}
+          questions={questions}
+          selectedAnswers={selectedAnswers}
         />
       )}
     </div>

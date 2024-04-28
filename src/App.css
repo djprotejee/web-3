@@ -66,3 +66,10 @@ ul li {
 input[type="radio"] {
   margin-right: 10px; /* Adjust as needed */
 }
+.question-review {
+  border: 1px solid #ccc; /* Add border */
+  border-radius: 5px; /* Add border radius for rounded corners */
+  padding: 10px; /* Add padding */
+  margin: 0 auto 20px; /* Center the box horizontally and add bottom margin */
+  max-width: 800px; /* Set the maximum width of the box */
+}
